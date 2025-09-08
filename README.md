@@ -31,10 +31,12 @@ pip install -r requirements.txt
 LH_CD_THAISLVABREU/
 ├── modelo_imdb.py          # Treinamento do modelo
 ├── usar_modelo.py          # Uso do modelo treinado
-├── prever_shawshank.py     # Exemplo com The Shawshank Redemption
+├── eda_analysis.ipynb     # análise completa usando a base de dados
 ├── modelo_imdb.pkl         # Modelo treinado (gerado automaticamente)
 ├── requirements.txt        # Dependências do projeto
+├── desafio_indicium_imdb.cvs # base de dados fornecida
 └── README.md              # Documentação
+
 ```
 
 ## 🚀 Como Executar
