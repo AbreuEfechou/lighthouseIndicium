@@ -17,7 +17,7 @@ Este projeto realiza uma análise abrangente do mercado cinematográfico e desen
 1. **Clone o repositório**
 ```bash
 git clone <https://github.com/AbreuEfechou/lighthouseIndicium.git>
-cd lighthouseIndicium
+cd LH_CD_THAISLVABREU
 ```
 
 2. **Instale as dependências:**
@@ -28,13 +28,15 @@ pip install -r requirements.txt
 ## 📋 Estrutura do Projeto
 
 ```
-lighthouseIndicium/
+LH_CD_THAISLVABREU/
 ├── modelo_imdb.py          # Treinamento do modelo
 ├── usar_modelo.py          # Uso do modelo treinado
-├── prever_shawshank.py     # Exemplo com The Shawshank Redemption
+├── eda_analysis.ipynb     # análise completa usando a base de dados
 ├── modelo_imdb.pkl         # Modelo treinado (gerado automaticamente)
 ├── requirements.txt        # Dependências do projeto
+├── desafio_indicium_imdb.cvs # base de dados fornecida
 └── README.md              # Documentação
+
 ```
 
 ## 🚀 Como Executar
