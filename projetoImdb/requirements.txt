@@ -1,0 +1,13 @@
+# 📦 Requirements completos
+pandas==1.5.3
+numpy==1.24.3
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.2.2
+xgboost==1.7.5
+jupyter==1.0.0
+ipykernel==6.22.0
+ipython==8.12.0
+python-dateutil==2.8.2
+pytz==2023.3
+regex==2023.5.5
